@@ -1,2 +1,1 @@
-ros実習
-2024/4/30
+ros_lecture
