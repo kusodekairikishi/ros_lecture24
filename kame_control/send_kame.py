@@ -8,6 +8,7 @@ import actionlib
 class SimpleGoal:
     def __init__(self):
         self.way_points = [
+            [-2.0,-0.5, 0.0],
             [1.5, 0.0 , 0.0],
             [0.0, 1.0 , 0.0],
             [1.0, 0.0 , 0.0],
